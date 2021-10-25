@@ -1,0 +1,9 @@
+url: http://csse.szu.edu.cn/zk/menu/28/list.html
+keys:
+  - 计算机
+email_from: email_from@test.c
+email_to: email_to@test.c
+email_smtp: smtp.exmail.qq.com
+email_smtp_port: 465
+email_user: email_user
+email_password: password
